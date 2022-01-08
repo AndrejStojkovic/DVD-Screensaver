@@ -1,0 +1,47 @@
+﻿  DVD.cpp
+D:\GitHubProjects\DVD-Screensaver\DVD.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\GitHubProjects\DVD-Screensaver\DVD.cpp(16,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GitHubProjects\DVD-Screensaver\DVD.cpp(16,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GitHubProjects\DVD-Screensaver\DVD.cpp(24,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GitHubProjects\DVD-Screensaver\DVD.cpp(25,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GitHubProjects\DVD-Screensaver\DVD.cpp(26,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GitHubProjects\DVD-Screensaver\DVD.cpp(26,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GitHubProjects\DVD-Screensaver\DVD.cpp(36,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GitHubProjects\DVD-Screensaver\DVD.cpp(37,13): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GitHubProjects\DVD-Screensaver\DVD.cpp(65,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\GitHubProjects\DVD-Screensaver\DVD.cpp(65,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  Generating Code...
+  DVD-Screensaver.vcxproj -> D:\GitHubProjects\DVD-Screensaver\Debug\DVD-Screensaver.exe
