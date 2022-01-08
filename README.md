@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/screen1.png" alt="Logo" style="width: 30%">
+  <img src="img/screen1.png" alt="Logo" style="width: 70%">
 
   <h3 align="center">DVD-Screensaver</h3>
 
