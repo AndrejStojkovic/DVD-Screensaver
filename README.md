@@ -6,9 +6,9 @@
   <p align="center">SFML Application with the DVD Logo bouncing off the screen.</p>
 </p>
 
-# Requirement
+## Requirement
 - SFML (sfml-dev.org)
 
-# Controls:
+## Controls:
 - F11 - Fullscreen
 - Esc - Exit application
